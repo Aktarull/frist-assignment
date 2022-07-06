@@ -120,3 +120,71 @@ hr {
     height: 1px;
     width: 800px;
 }
+
+.donate-plan h1 {
+    text-align: center;
+    color: black;
+    font-size: 48px;
+}
+
+.donate-plan p {
+    color: rgb(58, 57, 57);
+    font-size: 14px;
+    text-align: center;
+}
+
+.table {
+    display: flex;
+    border-left: 2px;
+    width: 800px;
+    margin: 0 auto;
+}
+
+.table-1 {
+    padding: 20px 10px 20px 10px;
+    align-content: center;
+    margin: 0 10px;
+    border-radius: 5%;
+    background-color: bisque;
+}
+
+.table-2 {
+    padding: 20px 10px 20px 10px;
+    align-content: center;
+    margin: 0 10px;
+    border-radius: 5%;
+    background-color: khaki;
+}
+
+.table-3 {
+    padding: 20px 10px 20px 10px;
+    align-content: center;
+    margin: 0 10px;
+    border-radius: 5%;
+
+    background-color: rgb(236, 198, 148);
+}
+
+.your-donation {
+    display: flex;
+    font-size: medium;
+    margin-top: 100px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.survive {
+    display: flex;
+    font-size: medium;
+    margin-top: 100px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.half-width {
+    width: 50%;
+}
+
+.half-width1 {
+    width: 50%;
+}
