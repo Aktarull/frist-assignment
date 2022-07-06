@@ -190,16 +190,28 @@ hr {
 .my-update {
     text-align: center;
     margin-top: 100px;
+
+
+}
+
+.my-update p {
+    color: rgb(102, 98, 98);
+
 }
 
 .submit {
-    padding: 20px 10px 20px 10px;
+    padding: 30px 30px 30px 30px;
     align-content: center;
-    margin: 100px 10px;
-    border-radius: 5%;
+    margin: 50px 20px;
+    border-radius: 2px;
     color: brown;
     background-color: bisque;
-    width: 600px;
+    height: 40px;
+    max-width: 600px;
+    border-width: 10px;
+    align-items: 50vh;
+
+
 }
 
 .last {
@@ -215,11 +227,13 @@ hr {
 footer {
     color: aliceblue;
     background-color: black;
-    margin-top: 0 auto;
+
+    border: 5px solid black;
 }
 
 .color {
     background-color: black;
+    border: 5px solid black;
 }
 
 .half-width {
