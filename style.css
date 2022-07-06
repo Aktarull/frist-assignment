@@ -1,5 +1,6 @@
 body {
     font-family: 'Poppins', sans-serif;
+    text-align: center;
 }
 
 .background-images {
@@ -64,7 +65,7 @@ body {
 .box {
     display: flex;
     border-left: 2px;
-    width: 800px;
+    width: 500px;
     margin: 0 auto;
 }
 
@@ -179,6 +180,35 @@ hr {
     margin-top: 100px;
     margin-left: 40px;
     margin-right: 40px;
+}
+
+.my-update {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.submit {
+    padding: 20px 10px 20px 10px;
+    align-content: flex-end;
+    margin: 0 10px;
+    border-radius: 5%;
+    border: 2px solid brown;
+}
+
+.last {
+    text-align: center;
+    background-color: black;
+
+}
+
+.last h1 {
+    color: crimson;
+}
+
+footer {
+    color: aliceblue;
+    background-color: black;
+    margin-top: auto;
 }
 
 .half-width {
