@@ -142,28 +142,33 @@ hr {
 }
 
 .table-1 {
-    padding: 20px 10px 20px 10px;
+    padding: 50px 10px 20px 10px;
     align-content: center;
     margin: 0 10px;
     border-radius: 5%;
     background-color: bisque;
+    background-image: url(icons/food.png);
+    background-repeat: no-repeat;
 }
 
 .table-2 {
-    padding: 20px 10px 20px 10px;
+    padding: 50px 10px 20px 10px;
     align-content: center;
     margin: 0 10px;
     border-radius: 5%;
     background-color: khaki;
+    background-image: url(icons/shelter.png);
+    background-repeat: no-repeat;
 }
 
 .table-3 {
-    padding: 20px 10px 20px 10px;
+    padding: 50px 10px 20px 10px;
     align-content: center;
     margin: 0 10px;
     border-radius: 5%;
-
+    background-image: url(icons/Frame-1.png);
     background-color: rgb(236, 198, 148);
+    background-repeat: no-repeat;
 }
 
 .your-donation {
