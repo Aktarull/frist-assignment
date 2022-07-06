@@ -194,10 +194,12 @@ hr {
 
 .submit {
     padding: 20px 10px 20px 10px;
-    align-content: flex-end;
-    margin: 0 10px;
+    align-content: center;
+    margin: 100px 10px;
     border-radius: 5%;
-    border: 2px solid brown;
+    color: brown;
+    background-color: bisque;
+    width: 600px;
 }
 
 .last {
@@ -213,7 +215,11 @@ hr {
 footer {
     color: aliceblue;
     background-color: black;
-    margin-top: auto;
+    margin-top: 0 auto;
+}
+
+.color {
+    background-color: black;
 }
 
 .half-width {
